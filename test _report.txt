@@ -1,2 +1,7 @@
 hi
+<<<<<<< HEAD
 git hub project
+=======
+
+lets work on git hub project
+>>>>>>> 4f4efbbe7d70a77e4c83cc152cb2ba4b294427d0
